@@ -2,6 +2,7 @@
 NLP robust to adversarial examples.
 
 Good reading list for adversarial examples: https://github.com/chawins/Adversarial-Examples-Reading-List
+Another excellent reading list: https://github.com/xuczhang/AdvPaperRoadMap
 
 Some miscellaneous papers/repos/reports (unpublished works):
 - https://github.com/bogdan-kulynych/textfool
